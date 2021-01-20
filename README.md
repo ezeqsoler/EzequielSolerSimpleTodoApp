@@ -22,6 +22,14 @@ The following **additional** features are implemented:
 
 * [x] List anything else that you can get done to improve the app functionality!
 
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='https://i.imgur.com/eD95f6w.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
 ## Notes
 
 One of the challenges I encountered while building the app was using the Android Virtual Device to test the app. The AVD Manager ran very slowly on my laptop and it made it 
